@@ -9,7 +9,6 @@ This is the project of Java, Selenium, JBehave.
   3. JBehave
   4. Maven
   5. Intellij
-
 ```	
 ## Installation/Setup
 ```
